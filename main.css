@@ -6,6 +6,7 @@ body
 .jumbotron
 {
 	background-image: url(https://brg12.github.io/SolGen-logo-1.jpg);
+	background-size: 30%
 	/*border-bottom-style: solid;
 	border-bottom-color: black;*/
 	margin-bottom: 0%;
