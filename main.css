@@ -10,7 +10,7 @@ body
 	padding-top: 5%;
 	padding-bottom 5%;
 	background-repeat: no-repeat;
-	margin-bottom: 0;
+	margin-bottom: 0%;
 	background-position: center;
 	/*border-bottom-style: solid;
 	border-bottom-color: black;*/
@@ -28,8 +28,8 @@ body
 
 .navbar
 {
-	margin-top: 0;
-	margin-bottom: 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
 	/*border-bottom-style: solid;
 	border-bottom-color: black;*/	
 }
@@ -43,7 +43,7 @@ body
 .content
 {
 	float: none;
-	margin: 0;
+	margin: 0%;
 	
 	border-radius: 0px 0px 5px 5px;
 	
