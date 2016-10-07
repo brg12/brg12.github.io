@@ -32,13 +32,13 @@ body
 .navbar
 {
 	margin-top: 0%;
-	margin-bottom: 0%;
+	margin-bottom: 5%;
 	/*border-bottom-style: solid;
 	border-bottom-color: black;*/
 	
 }
 
-.col-centered
+.content
 {
 	float: none;
 	margin: 0 auto;
