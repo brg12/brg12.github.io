@@ -34,8 +34,13 @@ body
 	margin-top: 0%;
 	margin-bottom: 5%;
 	/*border-bottom-style: solid;
-	border-bottom-color: black;*/
-	
+	border-bottom-color: black;*/	
+}
+
+.col-centered
+{
+	float: none;
+	margin: 0 auto;
 }
 
 .content
