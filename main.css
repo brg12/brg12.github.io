@@ -8,6 +8,7 @@ body
 	background-image: url(https://brg12.github.io/SolGen-logo-1.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	margin-bottom: 0;
 	/*border-bottom-style: solid;
 	border-bottom-color: black;*/
 }
@@ -44,9 +45,6 @@ body
 
 .content
 {
-	float: none;
-	margin: 0 auto;
-	
 	border-radius: 0px 0px 5px 5px;
 	
 	background-color: white;
