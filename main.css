@@ -69,12 +69,12 @@ body
 }
 .footer
 {
-	background-color: lightgray;
+	background-color: "light-gray";
 	display: inline;
 }
 
 .pagelinks
 {
 	list-style: none;
-	color: darkgray;
+	color: "dark-gray";
 }
