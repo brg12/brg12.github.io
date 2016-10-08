@@ -74,13 +74,16 @@ body
 	margin: 0%;
 	background-color: #d3d3d3;
 	/*display: inline-block;*/
-	display: inline;
-	
+	display: inline;	
+}
+
+.footer a
+{
+	color: #A3A3A3;	
 }
 
 .footer ul
 {
 	list-style: none;
-	color: #A3A3A3;
 	text-align: center;
 }
