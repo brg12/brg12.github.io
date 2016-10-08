@@ -69,12 +69,15 @@ body
 	float: none;
 	overflow: hidden;
 }
+
 .footer
 {
 	margin: 0%;
 	background-color: #d3d3d3;
 	/*display: inline-block;*/
-	display: inline;	
+	display: inline;
+	list-style: none;
+	text-align: center;
 }
 /*
 .footer a
