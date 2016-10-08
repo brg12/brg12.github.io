@@ -76,7 +76,7 @@ body
 	margin: 0%;
 	list-style: none;
 	display: inline-block;
-	list-style-position: center;
+	
 }
 
 .footer ul
@@ -84,4 +84,5 @@ body
 
 	/*display: inline-block;*/
 	list-style: none;
+	list-style-position: center;
 }
