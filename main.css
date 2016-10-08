@@ -72,15 +72,16 @@ body
 
 .footer
 {
-	background-color: #d3d3d3;
+	background-color: #F0FFFF;
 	margin: 0%;
 	list-style: none;
+	display: inline-block;
+	list-style-position: center;
 }
 
 .footer ul
 {
 
-	display: inline;
+	display: inline-block;
 	list-style: none;
-	text-align: center;
 }
