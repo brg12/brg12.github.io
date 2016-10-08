@@ -67,19 +67,20 @@ body
 	margin: 0%;
 	padding:0%;
 	float: none;
+	overflow: hidden;
 }
 .footer
 {
 	margin: 0%;
 	background-color: #d3d3d3;
 	/*display: inline-block;*/
+	display: inline;
 	
 }
 
 .footer ul
 {
 	list-style: none;
-	color: "dark-gray";
-	display: inline;
+	color: #A3A3A3;
 	text-align: center;
 }
