@@ -69,12 +69,16 @@ body
 }
 .footer
 {
+	margin: 0%;
 	background-color: "light-gray";
-	display: inline;
+	/*display: inline-block;*/
+	
 }
 
-.pagelinks
+.footer ul
 {
 	list-style: none;
 	color: "dark-gray";
+	display: inline;
+	text-align: center;
 }
