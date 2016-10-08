@@ -72,18 +72,13 @@ body
 
 .footer
 {
+	background-color: #d3d3d3;
 	margin: 0%;
-}
-
-.footer a
-{
-	color: #A3A3A3;	
 }
 
 .footer ul
 {
 	display: inline;
-	background-color: #d3d3d3;
 	list-style: none;
 	text-align: center;
 }
