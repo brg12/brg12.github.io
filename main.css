@@ -65,6 +65,12 @@ body
 {
 	font-style: bold;
 	font-size: large;
+	color: #DCDCDC;
+}
+
+.personalinfo
+{
+	color: #DCDCDC;
 }
 
 .subheader
