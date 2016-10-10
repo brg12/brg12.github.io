@@ -1,6 +1,6 @@
 body
 {
-	background-color: white;
+	background-color: #90EE90;
 }
 
 .jumbotron
@@ -52,15 +52,14 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: black;
 	border-bottom-width: 2px;
-	
+	*/
 	border-left-style: solid;
 	border-left-color: black;
-	border-left-width: 2px;
+	border-left-width: 1px;
 	
 	border-right-style: solid;
 	border-right-color: black;
-	border-right-width: 2px;
-	*/
+	border-right-width: 1px;
 }
 .mainheader
 {
@@ -76,13 +75,13 @@ body
 
 .footer
 {
-	background-color: #90EE90;
-	margin-top: 30%;
+	background-color: white;
 	margin: 0%;
 	list-style: none;
 	text-align: center;
-	color: white;
-	
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: black;
 }
 
 .footer ul
