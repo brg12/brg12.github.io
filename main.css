@@ -77,18 +77,17 @@ body
 .footer
 {
 	background-color: #90EE90;
-	margin-top: 20%;
+	margin-top: 30%;
 	margin: 0%;
 	list-style: none;
 	text-align: center;
+	color: white;
 	
 }
-
+/*
 .footer ul
 {
-
-	/*display: inline-block;*/
 	list-style: none;
 	list-style-position: center;
-	color: white;
 }
+*/
