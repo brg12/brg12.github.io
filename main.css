@@ -62,13 +62,16 @@ body
 	border-right-width: 2px;
 	*/
 }
-
-.content h1
+.mainheader
 {
-	margin: 0%;
-	padding:0%;
-	float: none;
-	overflow: hidden;
+	font-style: bold;
+	font-size: large;
+}
+
+.subheader
+{
+	font-style: bold;
+	font-size: medium;
 }
 
 .footer
@@ -86,4 +89,5 @@ body
 	/*display: inline-block;*/
 	list-style: none;
 	list-style-position: center;
+	color: white;
 }
