@@ -53,25 +53,26 @@ body
 	border-bottom-color: black;
 	border-bottom-width: 2px;
 	*/
-	border-left-style: solid;
+	/*border-left-style: solid;
 	border-left-color: black;
 	border-left-width: 1px;
 	
 	border-right-style: solid;
 	border-right-color: black;
 	border-right-width: 1px;
+	*/
 }
 .mainheader
 {
 	font-style: bold;
-	font-size: large;
-	color: #595959;
+	font-size: 200%;
+	color: #2F4F4F;
 	text-align: center;
 }
 
 .personalinfo
 {
-	color: #DCDCDC;
+	color: #D3D3D3;
 }
 
 .subheader
@@ -82,7 +83,7 @@ body
 
 .footer
 {
-	background-color: white;
+	background-color: #90EE90;
 	margin: 0%;
 	list-style: none;
 	text-align: center;
