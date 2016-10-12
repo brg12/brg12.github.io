@@ -1,6 +1,6 @@
 body
 {
-	background-color: white;
+	background-color: #90EE90;
 }
 
 .jumbotron
@@ -52,19 +52,19 @@ body
 	/*border-radius: 0px 0px 5px 5px;
 	*/
 	background-color: white;
-	/*
+	
 	border-bottom-style: solid;
 	border-bottom-color: black;
 	border-bottom-width: 2px;
-	*/
-	/*border-left-style: solid;
+	
+	border-left-style: solid;
 	border-left-color: black;
 	border-left-width: 1px;
 	
 	border-right-style: solid;
 	border-right-color: black;
 	border-right-width: 1px;
-	*/
+	
 }
 .mainheader
 {
