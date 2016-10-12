@@ -79,10 +79,18 @@ body
 	text-align: center;
 }
 
+
+
 .subheader
 {
 	font-style: bold;
 	font-size: medium;
+}
+
+.imagesize2
+{
+	width: 50%;
+	height: 50%;
 }
 
 .footer
