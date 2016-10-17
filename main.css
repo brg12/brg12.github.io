@@ -40,17 +40,13 @@ body
 	margin: 0 auto;
 }
 
-.subcontent
-{
-}
-
 .content
 {
 	float: none;
 	margin: 0%;
-	
+	/*
 	/*border-radius: 0px 0px 5px 5px;
-	*/
+	
 	background-color: white;
 	
 	border-bottom-style: solid;
@@ -64,7 +60,7 @@ body
 	border-right-style: solid;
 	border-right-color: black;
 	border-right-width: 1px;
-	
+	*/
 }
 .mainheader
 {
