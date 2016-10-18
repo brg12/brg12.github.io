@@ -70,7 +70,7 @@ body
 	font-size: 200%;
 	color: #2F4F4F;
 	text-align: center;
-	margin-top: 10%;
+	margin-top: 5%;
 }
 
 .personalinfo
@@ -108,4 +108,9 @@ body
 	background-color: #90EE90;
 	list-style: none;
 	list-style-position: center;
+}
+
+.deliverables
+{
+	text-align: center;	
 }
