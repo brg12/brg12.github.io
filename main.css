@@ -85,10 +85,14 @@ body
 
 .imagesizedylan
 {
+	width: 100px;
+	height: auto;
 }
 
 .imagesizeben
 {	
+	width: 100px;
+	height: auto;
 }
 
 .footer
