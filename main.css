@@ -63,12 +63,14 @@ body
 	border-right-width: 1px;
 	*/
 }
+
 .mainheader
 {
 	font-style: bold;
 	font-size: 200%;
 	color: #2F4F4F;
 	text-align: center;
+	margin-top: 10%;
 }
 
 .personalinfo
