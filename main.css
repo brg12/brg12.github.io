@@ -8,7 +8,10 @@ body
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
-	background-size: 90%;
+	background-size: 100%;
+	background-color: white;
+	padding-top: 5%;
+	padding-bottom 5%;
 	margin-bottom: 0%;
 	background-position: center;
 	/*border-bottom-style: solid;
