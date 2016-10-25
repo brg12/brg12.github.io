@@ -4,6 +4,11 @@ body
 	margin: 0;
 }
 
+.row
+{
+	margin-bottom: 5%;	
+}
+
 .jumbotron
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
