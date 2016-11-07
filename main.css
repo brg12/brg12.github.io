@@ -11,12 +11,11 @@ body
 
 .jumbotron
 {
-	/*background-image: url(https://brg12.github.io/Altoenergy.png);
+	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
-	background-color: #E0FFFF;
 	background-size: 155%;
 	padding-top: 10%;
-	padding-bottom 10%;*/
+	padding-bottom 10%;
 	margin-bottom: 0%;
 	background-position: center;
 	border-bottom-style: solid;
@@ -83,6 +82,7 @@ body
 	color: #2F4F4F;
 	text-align: center;
 	margin-top: 5%;
+	background-color: #E0FFFF;
 }
 
 .personalinfo
