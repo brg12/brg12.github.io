@@ -11,7 +11,7 @@ body
 
 .jumbotron
 {
-	background-image: url(https://brg12.github.io/Altoenergy.png);
+	/*background-image: url(https://brg12.github.io/Altoenergy.png);*/
 	background-repeat: no-repeat;
 	background-color: #E0FFFF;
 	background-size: 155%;
@@ -19,8 +19,14 @@ body
 	padding-bottom 10%;
 	margin-bottom: 0%;
 	background-position: center;
-	/*border-bottom-style: solid;
-	border-bottom-color: black;*/
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
+.tronimage
+{
+	width: auto;
+	height: auto;
 }
 
 #projectname
