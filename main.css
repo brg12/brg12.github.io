@@ -9,7 +9,8 @@ body
 	margin-bottom: 2%;	
 }
 
-.jumbotron
+
+.hidden-xs-down jumbotron
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
@@ -21,6 +22,20 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: black;
 }
+
+.visible-xs-down jumbotron
+{
+	background-image: url(https://brg12.github.io/Altoenergy.png);
+	background-repeat: no-repeat;
+	background-size: 175%;
+	padding-top: 10%;
+	padding-bottom 10%;
+	margin-bottom: 0%;
+	background-position: center;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
 
 #projectname
 {
