@@ -10,7 +10,7 @@ body
 }
 
 
-.bigtron
+.jumbotron
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
@@ -22,20 +22,6 @@ body
 	border-bottom-style: solid;
 	border-bottom-color: black;
 }
-
-.smalltron
-{
-	background-image: url(https://brg12.github.io/Altoenergy.png);
-	background-repeat: no-repeat;
-	background-size: 200%;
-	padding-top: 10%;
-	padding-bottom 10%;
-	margin-bottom: 0%;
-	background-position: center;
-	border-bottom-style: solid;
-	border-bottom-color: black;
-}
-
 
 #projectname
 {
@@ -90,7 +76,7 @@ body
 	font-size: 300%;
 	color: #2F4F4F;
 	text-align: center;
-	margin-top: 5%;
+	/*margin-top: 5%;*/
 	background-color: #98FB98;
 }
 
