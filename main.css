@@ -10,7 +10,7 @@ body
 }
 
 
-.hidden-xs-down jumbotron
+.hidden-xs-down-jumbotron
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
@@ -23,7 +23,7 @@ body
 	border-bottom-color: black;
 }
 
-.hidden-xs-up jumbotron
+.hidden-xs-up-jumbotron
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
