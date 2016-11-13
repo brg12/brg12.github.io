@@ -4,37 +4,45 @@
 		<title> Project Solar Thermal Generator </title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+ 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="main.css">
 	</head>
 <body>
 
 
 
-<!--Team name and logo using bootstrap jumbotron feature-->
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default"  role="navigation">
 	<div class="container-fluid">
-		
 		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbar"> 
+			<!--
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavBar"> 
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a href="index.html" class="navbar-brand">Solar Thermal Generator</a>
+			-->
+			<a href="#" class="hidden-xs navbar-brand">Solar Thermal Generator</a>
 		</div>
 		
-		<div class="collapse navbar-collapse" id="mainNavbar">	
+		<!--<div class="collapse navbar-collapse" id="mainNavBar">-->	
 		<ul class="nav navbar-nav">
-			<li><a href="index.html">Home</a></li>
-			<li><a href="deliverables.html">Deliverables</a></li>
-			<!--<li><a href="meetings.html">Meetings</a></li>-->
-			<li class="active"><a href="contact.html">Contact The Team</a></li>
+			<li class="hidden-xs"><a href="index.html">Home</a></li>
+			<li class="hidden-xs"><a href="deliverables.html">Deliverables</a></li>
+			<li class="hidden-xs active"><a href="contact.html">Team Information</a></li>
+			
+			<li class="visible-xs dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">MENU<span class="caret"></span></a>
+			<ul class="dropdown-menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="deliverables.html">Meetings/Deliverables</a></li>
+				<li><a href="contact.html">Team Information</a></li>
+			</ul>
+			</li>
 		</ul>
-		</div>
-	
+		
 	</div>
 </nav>
 	
