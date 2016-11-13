@@ -6,7 +6,7 @@ body
 
 .row
 {
-	margin-bottom: 2%;	
+	/*margin-bottom: 2%;*/	
 }
 
 
@@ -14,7 +14,7 @@ body
 {
 	background-image: url(https://brg12.github.io/Altoenergy.png);
 	background-repeat: no-repeat;
-	background-size: 155%;
+	background-size: 175%;
 	padding-top: 10%;
 	padding-bottom 10%;
 	margin-bottom: 0%;
@@ -76,7 +76,7 @@ body
 	font-size: 300%;
 	color: #2F4F4F;
 	text-align: center;
-	/*margin-top: 5%;*/
+	margin-top: 5%;
 	background-color: #98FB98;
 }
 
